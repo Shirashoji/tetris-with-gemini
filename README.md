@@ -1,4 +1,6 @@
 # Tetris created with Gemini
+<img width="1256" height="743" alt="image" src="https://github.com/user-attachments/assets/5483bfc2-6d4b-452e-a537-81f957cb9967" />
+
 
 これは、Google Gemini CLI を利用して作成された、ブラウザで遊べるクラシックなテトリスゲームです。
 
